@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+
+[ashtavinayaka अष्टविनायका तुझा महिमा कसा](db/ashtavinayaka अष्टविनायका तुझा महिमा कसा.md)
+[bhay भय इथले संपत नाही](db/bhay भय इथले संपत नाही)
+[susangati सुसंगती सदा घडो.md](db/susangati सुसंगती सदा घडो.md)
